@@ -56,6 +56,14 @@ dependencies:
   library_flutter_flipcardview: ^0.0.1
 ```
 
+OR
+
+```yaml
+dependencies:
+  git:
+    url: https://github.com/Excelsior-Technologies-Community/library_flutter_flipCard.git
+```
+
 Or run:
 
 ```bash
