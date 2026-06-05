@@ -1,4 +1,4 @@
-library library_flutter_flip_card;
+library library_flutter_flipcardview;
 
 export 'flipCardView/flipcardview.dart';
 export 'flipCardView/flipdirection.dart';
